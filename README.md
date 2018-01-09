@@ -1,2 +1,3 @@
 # Type-Ahead
-Created using Type Ahead (JavaScript30)
+
+- A JavaScript program that searches for a city or state as you type.
